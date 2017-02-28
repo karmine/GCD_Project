@@ -3,7 +3,7 @@
 This repository hosts the R code and documentation files for the Data Science's track course "Getting and Cleaning data", available in coursera.
 
 
-## The datasets:
+## The datasets
 
 The dataset being used is: [Human Activity Recognition Using Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).  
 
@@ -26,7 +26,7 @@ the datasets includes the following files:
 - 'test/y_test.txt': Test labels.
 
 
-## The experiment:  
+## The experiment
 
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, we captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. The experiments have been video-recorded to label the data manually. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data. 
 
@@ -39,7 +39,7 @@ For each record it is provided:
 - An identifier of the subject who carried out the experiment.
 
 
-## The solution:
+## The solution
 Here are the steps to solve the problem:  
 
 0. Load datasets.  
